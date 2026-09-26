@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "ESCO (European Skills, Competences, Qualifications and Occupations)",
+    "generated_date": "2026-09-22",
+    "description": "Modern occupations and their essential skills, knowledge, and abilities",
+    "total_occupations_in_sample": 15
+  },
+  "occupations": [
+    {
+      "esco_code": "2512.1",
+      "preferred_label": "Software Developer",
+      "alt_labels": ["Programmer", "Software Engineer", "Backend Developer"],
+      "skills": ["Write software code", "Debug software", "Agile methodologies", "Version control (Git)", "Software testing"]
+    },
+    {
+      "esco_code": "2512.2",
+      "preferred_label": "Data Scientist",
+      "alt_labels": ["Machine Learning Engineer", "Data Analyst"],
+      "skills": ["Machine learning", "Statistical modelling", "Data visualization", "Python programming", "Data mining"]
+    },
+    {
+      "esco_code": "2431.12",
+      "preferred_label": "Digital Marketer",
+      "alt_labels": ["SEO Specialist", "Growth Hacker"],
+      "skills": ["Develop digital marketing strategy", "Search Engine Optimization (SEO)", "Social media marketing", "Content marketing", "Web analytics"]
+    },
+    {
+      "esco_code": "2163.2",
+      "preferred_label": "UX/UI Designer",
+      "alt_labels": ["Product Designer", "Interaction Designer"],
+      "skills": ["Conduct user research", "Create wireframes and prototypes", "Interaction design", "Usability testing", "Visual design"]
+    },
+    {
+      "esco_code": "1213.1",
+      "preferred_label": "Product Manager",
+      "alt_labels": ["Product Owner", "Head of Product"],
+      "skills": ["Manage product lifecycle", "Develop product roadmap", "Stakeholder management", "Market research", "Agile product development"]
+    },
+    {
+      "esco_code": "2519.4",
+      "preferred_label": "Cloud Architect",
+      "alt_labels": ["AWS Architect", "Cloud Solutions Architect"],
+      "skills": ["Design cloud infrastructure", "DevOps practices", "Cloud security compliance", "Network architecture", "Cost optimization"]
+    },
+    {
+      "esco_code": "2413.1",
+      "preferred_label": "Financial Analyst",
+      "alt_labels": ["Investment Analyst", "FP&A Analyst"],
+      "skills": ["Financial modelling", "Risk assessment", "Data analysis", "Prepare financial reports", "Financial forecasting"]
+    },
+    {
+      "esco_code": "2423.1",
+      "preferred_label": "HR Business Partner",
+      "alt_labels": ["HR Manager", "Talent Acquisition Partner"],
+      "skills": ["Talent management", "Employee relations", "HR strategy", "Performance management", "Organizational development"]
+    },
+    {
+      "esco_code": "2529.1",
+      "preferred_label": "Cybersecurity Analyst",
+      "alt_labels": ["Information Security Analyst", "SOC Analyst"],
+      "skills": ["Threat intelligence", "Vulnerability assessment", "Incident response", "Security monitoring", "Risk management"]
+    },
+    {
+      "esco_code": "1324.2",
+      "preferred_label": "Supply Chain Manager",
+      "alt_labels": ["Logistics Manager", "Operations Manager"],
+      "skills": ["Logistics management", "Inventory control", "Supplier relationship management", "Procurement", "Supply chain risk mitigation"]
+    },
+    {
+      "esco_code": "2642.2",
+      "preferred_label": "Content Strategist",
+      "alt_labels": ["Content Manager", "Copywriter"],
+      "skills": ["Content planning", "Copywriting", "SEO principles", "Audience analysis", "Content management systems (CMS)"]
+    },
+    {
+      "esco_code": "2512.3",
+      "preferred_label": "DevOps Engineer",
+      "alt_labels": ["Site Reliability Engineer", "Infrastructure Engineer"],
+      "skills": ["CI/CD pipelines", "Infrastructure as Code (IaC)", "System administration", "Automation scripting", "Cloud platforms"]
+    },
+    {
+      "esco_code": "2421.1",
+      "preferred_label": "Business Analyst",
+      "alt_labels": ["IT Business Analyst", "Process Analyst"],
+      "skills": ["Requirements elicitation", "Business process modelling", "Data interpretation", "Stakeholder communication", "User Acceptance Testing (UAT)"]
+    },
+    {
+      "esco_code": "2422.1",
+      "preferred_label": "Project Manager",
+      "alt_labels": ["Scrum Master", "Project Coordinator"],
+      "skills": ["Project planning", "Resource allocation", "Risk management", "Budgeting", "Team leadership"]
+    },
+    {
+      "esco_code": "2431.15",
+      "preferred_label": "Customer Success Manager",
+      "alt_labels": ["Client Success Manager", "Account Manager"],
+      "skills": ["Client onboarding", "Relationship building", "Issue resolution", "Drive product adoption", "Renewal strategies"]
+    }
+  ]
+}
